@@ -1,0 +1,3 @@
+số hàng m, số cột n
+Ma trận A_mxn
+Ma trận B_mx1

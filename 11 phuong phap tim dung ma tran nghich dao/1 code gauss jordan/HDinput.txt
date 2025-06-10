@@ -1,0 +1,2 @@
+số hàng, số cột
+ma trận A

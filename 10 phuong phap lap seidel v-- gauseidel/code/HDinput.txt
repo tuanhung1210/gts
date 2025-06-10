@@ -1,0 +1,4 @@
+cỡ ma trận vuông n
+ma trận A
+ma trận B
+sai số eps

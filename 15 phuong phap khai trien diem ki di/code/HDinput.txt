@@ -1,0 +1,5 @@
+ma trận A
+
+// U là vector ki di trái
+// S là ma trận kì dị
+// VT là chuyển vị của vector kì dị phải

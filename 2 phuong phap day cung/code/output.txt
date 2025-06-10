@@ -1,0 +1,15 @@
+
+Phương pháp dây cung giải gần đúng nghiệm bài toán f(x) = 0
+Input: 
+Phương trình: x^3 - 4x^2 + x + 1 = 0
+Khoảng cách li nghiệm: (a, b) = (9, 11)
+Sai số epsilon: 1e-006
+
+Chạy code theo công thức sai số hai lần lặp liên tiếp: 
+
+Điểm Fourier : 11
+
+
+Kết luận: 
+Số lần lặp: 0
+Nghiệm gần đúng: 10

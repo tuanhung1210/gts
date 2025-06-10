@@ -1,0 +1,4 @@
+số hàng m, số cột n
+A11 A12 ... A1n B1
+... ... ... ... ...
+Am1 Am2 ... Amn Bn

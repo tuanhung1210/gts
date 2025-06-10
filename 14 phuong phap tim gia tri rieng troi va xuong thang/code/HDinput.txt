@@ -1,0 +1,3 @@
+cỡ ma trận vuông n
+ma trận Y1xn
+ma trận Anxn

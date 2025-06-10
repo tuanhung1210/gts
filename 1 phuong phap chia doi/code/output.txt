@@ -1,0 +1,9 @@
+Phương pháp chia đôi giải gần đúng nghiệm bài toán f(x) = 0
+Input: 
+Phương trình: x^3 - 4x^2 + x + 1 = 0
+Khoảng cách li nghiệm: (a, b) = (2, 3)
+Sai số epsilon: 345
+
+Chạy code theo công thức sai số hậu nghiệm 
+
+ Không sử dụng được phương pháp !
