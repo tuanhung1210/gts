@@ -1,0 +1,10 @@
+số hàng của A, Số cột của A
+số hàng của X0, số cột của X0
+số hàng của B, số cột của B
+Ma trận A
+Ma trận B
+sai số eps
+
+// Lặp đơn: chuẩn nhỏ hơn 1 và chuẩn không nhỏ hơn 1
+// Jacobi: có chéo trội hàng hoặc cột và không có chéo trội
+// Hệ số co là chuẩn
